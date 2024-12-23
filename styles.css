@@ -18,6 +18,15 @@ h1 {
   margin-top: 10px;
 }
 
+.result {
+  font-family: 'Lobster',cursive;
+  font-size: 2rem;
+  color: #4ECCA3;
+  text-shadow: 5px 0 #232931;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
 .dices {
   display: flex;
 }
